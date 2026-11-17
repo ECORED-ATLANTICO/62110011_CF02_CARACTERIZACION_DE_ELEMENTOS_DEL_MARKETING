@@ -1,19 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.svg',
+    Name: 'Gestión y evaluación de estrategias de <em>marketing</em>',
+    Description:
+      'El componente formativo desarrolla los fundamentos y herramientas para diseñar, implementar y evaluar estrategias de marketing acordes con las condiciones del mercado y los objetivos de la organización. Aborda la ideación, innovación, prototipado, conocimiento del consumidor, creación de valor, CRM, gestión de marca, marketing digital, mercadeo ecológico, responsabilidad social, presupuesto, indicadores, rendimiento financiero y auditoría de mercadeo, orientados al fortalecimiento de la gestión comercial. ',
+    imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-1.svg',
-      },
-      {
-        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
-        imagen: '@/assets/curso/portada/banner-principal-decorativo-2.svg',
-      },
-    ],
   },
   menuPrincipal: {
     menu: [
