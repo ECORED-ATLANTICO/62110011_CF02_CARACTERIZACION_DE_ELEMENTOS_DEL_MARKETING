@@ -230,6 +230,15 @@
       .col-xl-10
         .tarjeta-avatar-b.align-items-center
           .tarjeta-avatar-b__img
+            img.imgw-154(src='@/assets/curso/tema1/19.png' alt='')
+          .tarjeta.bg-img--5.h-fitcontent
+            .p-4
+              p.mb-0 Un ejemplo es Apple, que combina investigación del mercado, diseño, tecnología y experiencia del usuario para desarrollar productos innovadores que mantienen un alto nivel de aceptación y diferenciación a nivel mundial.
+
+    .row.justify-content-center.mb-4
+      .col-xl-10
+        .tarjeta-avatar-b.align-items-center
+          .tarjeta-avatar-b__img
             img.imgw-190(src='@/assets/curso/tema1/20.png' alt='')
           .tarjeta.bg-img--3.h-fitcontent
             .p-4.py-5
@@ -241,10 +250,6 @@
                   a.boton.color-acento-botones(:href="obtenerLink('https://www.google.com')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download
-
-  
-
-    
 
 </template>
 
