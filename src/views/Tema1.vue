@@ -173,49 +173,51 @@
 
     p.mb-5 La innovación integra diferentes componentes que actúan de manera complementaria para generar soluciones exitosas. Entre ellos se destacan 
 
-    SlyderF(columnas="col-lg-6 col-xl-4").mb-4
-      .tarjeta.bg-cards.p-4.pt-5
-        .row.justify-content-center.mb-3
-          .col-6.col-sm-4.col-xl-5
-            img.imgw-95.mb-3(src='@/assets/curso/tema1/13.png' alt='')
-        h5.mb-3.text-center Creatividad
-        p.mb-0 Es la capacidad de generar ideas originales y útiles para resolver problemas, mejorar productos o desarrollar nuevas oportunidades comerciales.  
-        p.mb-0 #[strong Ejemplo:] una empresa de alimentos propone combinaciones novedosas de sabores para diferenciar sus productos de los competidores. 
-      .tarjeta.bg-cards.p-4.pt-5
-        .row.justify-content-center.mb-3
-          .col-6.col-sm-4.col-xl-5
-            img.imgw-95.mb-3(src='@/assets/curso/tema1/14.png' alt='')
-        h5.mb-3.text-center Conocimiento del mercado
-        p.mb-0 Permite comprender las necesidades de los consumidores, las tendencias comerciales y las estrategias de la competencia para identificar oportunidades de innovación.  
-        p.mb-0 #[strong Ejemplo:] una empresa de cosméticos analiza las preferencias del mercado para desarrollar productos con ingredientes naturales. 
-      .tarjeta.bg-cards.p-4.pt-5
-        .row.justify-content-center.mb-3
-          .col-6.col-sm-4.col-xl-5
-            img.imgw-95.mb-3(src='@/assets/curso/tema1/15.png' alt='')
-        h5.mb-3.text-center Orientación al cliente
-        p.mb-0 Busca comprender las expectativas, preferencias y experiencias de los consumidores para desarrollar soluciones que respondan a sus necesidades y generen satisfacción.  
-        p.mb-0 #[strong Ejemplo:] un supermercado incorpora cajas de autopago para facilitar las compras y reducir los tiempos de espera. 
-      .tarjeta.bg-cards.p-4.pt-5
-        .row.justify-content-center.mb-3
-          .col-6.col-sm-4.col-xl-5
-            img.imgw-95.mb-3(src='@/assets/curso/tema1/16.png' alt='')
-        h5.mb-3.text-center Uso de la tecnología
-        p.mb-0 Aprovecha herramientas digitales, equipos y avances tecnológicos para mejorar procesos, desarrollar productos y ofrecer experiencias innovadoras a los consumidores.  
-        p.mb-0 #[strong Ejemplo:] una tienda de ropa implementa probadores virtuales para facilitar la selección de prendas mediante herramientas digitales. 
-      .tarjeta.bg-cards.p-4.pt-5
-        .row.justify-content-center.mb-3
-          .col-6.col-sm-4.col-xl-5
-            img.imgw-95.mb-3(src='@/assets/curso/tema1/17.png' alt='')
-        h5.mb-3.text-center Trabajo colaborativo
-        p.mb-0 Promueve la participación de diferentes personas, áreas y aliados para compartir conocimientos, generar ideas y desarrollar soluciones innovadoras.  
-        p.mb-0 #[strong Ejemplo:] los equipos de ventas, diseño y producción trabajan conjuntamente en la creación de un nuevo empaque. 
-      .tarjeta.bg-cards.p-4.pt-5
-        .row.justify-content-center.mb-3
-          .col-6.col-sm-4.col-xl-5
-            img.imgw-95.mb-3(src='@/assets/curso/tema1/18.png' alt='')
-        h5.mb-3.text-center Mejora continua
-        p.mb-0 Impulsa la revisión y optimización permanente de productos, servicios y procesos mediante la evaluación de resultados y la incorporación de mejoras.  
-        p.mb-0 #[strong Ejemplo:] una empresa de domicilios analiza las quejas de sus clientes para reducir los tiempos de entrega. 
+    .row.justify-content-center
+      .col-xl-11
+        SlyderF(columnas="col-lg-6 col-xl-4").mb-4
+          .tarjeta.bg-cards.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-4.col-xl-5
+                img.imgw-95.mb-3(src='@/assets/curso/tema1/13.png' alt='')
+            h5.mb-3.text-center Creatividad
+            p.mb-0.text-center Es la capacidad de generar ideas originales y útiles para resolver problemas, mejorar productos o desarrollar nuevas oportunidades comerciales.  
+            p.mb-4.text-center #[strong Ejemplo:] una empresa de alimentos propone combinaciones novedosas de sabores para diferenciar sus productos de los competidores. 
+          .tarjeta.bg-cards.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-4.col-xl-5
+                img.imgw-95.mb-3(src='@/assets/curso/tema1/14.png' alt='')
+            h5.mb-3.text-center Conocimiento del mercado
+            p.mb-0.text-center Permite comprender las necesidades de los consumidores, las tendencias comerciales y las estrategias de la competencia para identificar oportunidades de innovación.  
+            p.mb-4.text-center #[strong Ejemplo:] una empresa de cosméticos analiza las preferencias del mercado para desarrollar productos con ingredientes naturales. 
+          .tarjeta.bg-cards.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-4.col-xl-5
+                img.imgw-95.mb-3(src='@/assets/curso/tema1/15.png' alt='')
+            h5.mb-3.text-center Orientación al cliente
+            p.mb-0.text-center Busca comprender las expectativas, preferencias y experiencias de los consumidores para desarrollar soluciones que respondan a sus necesidades y generen satisfacción.  
+            p.mb-4.text-center #[strong Ejemplo:] un supermercado incorpora cajas de autopago para facilitar las compras y reducir los tiempos de espera. 
+          .tarjeta.bg-cards.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-4.col-xl-5
+                img.imgw-95.mb-3(src='@/assets/curso/tema1/16.png' alt='')
+            h5.mb-3.text-center Uso de la tecnología
+            p.mb-0.text-center Aprovecha herramientas digitales, equipos y avances tecnológicos para mejorar procesos, desarrollar productos y ofrecer experiencias innovadoras a los consumidores.  
+            p.mb-4.text-center #[strong Ejemplo:] una tienda de ropa implementa probadores virtuales para facilitar la selección de prendas mediante herramientas digitales. 
+          .tarjeta.bg-cards.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-4.col-xl-5
+                img.imgw-95.mb-3(src='@/assets/curso/tema1/17.png' alt='')
+            h5.mb-3.text-center Trabajo colaborativo
+            p.mb-0.text-center Promueve la participación de diferentes personas, áreas y aliados para compartir conocimientos, generar ideas y desarrollar soluciones innovadoras.  
+            p.mb-4.text-center #[strong Ejemplo:] los equipos de ventas, diseño y producción trabajan conjuntamente en la creación de un nuevo empaque. 
+          .tarjeta.bg-cards.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-4.col-xl-5
+                img.imgw-95.mb-3(src='@/assets/curso/tema1/18.png' alt='')
+            h5.mb-3.text-center Mejora continua
+            p.mb-0.text-center Impulsa la revisión y optimización permanente de productos, servicios y procesos mediante la evaluación de resultados y la incorporación de mejoras.  
+            p.mb-4.text-center #[strong Ejemplo:] una empresa de domicilios analiza las quejas de sus clientes para reducir los tiempos de entrega. 
 
     .row.justify-content-center.mb-4
       .col-xl-10

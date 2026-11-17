@@ -245,38 +245,6 @@
                     i.fas.fa-video
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </template>
 
 <script>
