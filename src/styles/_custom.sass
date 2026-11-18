@@ -155,7 +155,8 @@ figcaption, table caption
   background-size: cover
   background-position: center top
   background-repeat: no-repeat
-
+  &--2
+    background-image: url("../assets/curso/common/bg-cards-2.png")
 .bg-img--primario
   background: linear-gradient(270deg, rgba(255, 247, 235, 0.98) 0%, rgba(255, 225, 179, 1) 100%)
   background-position: center
@@ -235,10 +236,6 @@ figcaption, table caption
   align-items: center
   border-radius: 20px
 
-  img
-    width: auto
-    height: 70px
-
   &__slyde
     padding: 10px !important
 
@@ -272,3 +269,23 @@ figcaption, table caption
       width: 40% 
     .col-lg-8.col-xl-9
       width: 60%
+
+.bg-audio
+  background: url('../assets/curso/common/bg-audio.png')
+  background-size: cover
+  background-position: center
+  background-repeat: no-repeat
+  
+.tarjeta-audio
+  background-color: $white
+  &__texto
+    color: $color-sistema-texto !important
+
+  .tarjeta-audio__input input[type=range]
+    background-color: $color-acento-contenido !important
+
+  .audio__btn
+    background-color: $color-acento-botones !important
+
+  &__tiempo
+    color: $color-sistema-texto !important

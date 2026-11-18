@@ -149,7 +149,7 @@
     h5.mb-3 Fórmula del ROI 
     p.mb-5 ROI = (Beneficio obtenido - Inversión) / Inversión x 100 
 
-    .row.justify-content-center.mb-4.mb-lg-5
+    .row.justify-content-center
       .col-xl-7
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 5.
@@ -205,7 +205,7 @@
     p La auditoría de mercadeo se desarrolla mediante un conjunto de etapas sistemáticas que permiten evaluar de forma integral la gestión comercial de una organización. 
     p.mb-5 Las etapas del proceso de auditoría de mercadeo corresponden a las siguientes: 
 
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
+    .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
         TabsA.color-primario.mb-4.mb-lg-0
           .tarjeta.bg-secundario-s5.p-4(titulo="Planeación ")
@@ -227,13 +227,102 @@
         .cajon.color-secundario.p-4
           p.mb-0 La aplicación de estas etapas permite fortalecer el control de las estrategias de marketing y apoyar de manera efectiva el proceso de mejoramiento continuo. 
     
+    separador
+    #t_6_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 6.6 Componentes de la auditoría de mercadeo
 
+    .row.justify-content-center.mb-5.align-items-center
+      .col-lg-1.d-none.d-lg-block
+        figure
+          img.mb-4.mb-lg-0(src='@/assets/curso/tema1/4.png' alt='')
+      .col-lg-11
+        p La auditoría de mercadeo evalúa diferentes componentes de la organización para obtener una visión integral de su desempeño comercial.
+        p.mb-0 Los componentes del proceso de auditoría y sus respectivos aspectos evaluados comprenden los siguientes: 
+    
+    .row.justify-content-center.mb-5
+      .col-xl-11
+        SlyderF(columnas="col-lg-6 col-xl-4")
+          .tarjeta.bg-cards.bg-cards--2.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-5
+                figure
+                  img.imgw-105.mb-2(src='@/assets/curso/tema6/10.svg' alt='')
+            h5.mb-3.text-center Entorno
+            p.mb-4.text-center Análisis del mercado, la competencia y las tendencias del sector.
+          .tarjeta.bg-cards.bg-cards--2.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-5
+                figure
+                  img.imgw-105.mb-2(src='@/assets/curso/tema6/11.svg' alt='')
+            h5.mb-3.text-center Estrategias
+            p.mb-4.text-center Evaluación de la alineación de los objetivos y los planes de marketing.
+          .tarjeta.bg-cards.bg-cards--2.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-5
+                figure
+                  img.imgw-105.mb-2(src='@/assets/curso/tema6/12.svg' alt='')
+            h5.mb-3.text-center Organización
+            p.mb-4.text-center Revisión de la gestión del talento humano y la estructura comercial.
+          .tarjeta.bg-cards.bg-cards--2.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-5
+                figure
+                  img.imgw-105.mb-2(src='@/assets/curso/tema6/13.svg' alt='')
+            h5.mb-3.text-center Procesos
+            p.mb-4.text-center Control sobre la ejecución de las campañas y las actividades del área.
+          .tarjeta.bg-cards.bg-cards--2.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-5
+                figure
+                  img.imgw-105.mb-2(src='@/assets/curso/tema6/14.svg' alt='')
+            h5.mb-3.text-center Resultados
+            p.mb-4.text-center Medición de indicadores clave de rendimiento, ventas y rentabilidad.
+          .tarjeta.bg-cards.bg-cards--2.p-4.pt-5
+            .row.justify-content-center.mb-3
+              .col-6.col-sm-5
+                figure
+                  img.imgw-105.mb-2(src='@/assets/curso/tema6/15.svg' alt='')
+            h5.mb-3.text-center Mejoramiento
+            p.mb-4.text-center Definición e implementación de acciones correctivas y oportunidades de mejora.
 
+    .row.justify-content-center
+      .col-xl-10
+        p.mb-4 La evaluación conjunta de estos componentes permite identificar fortalezas, corregir desviaciones y optimizar las estrategias implementadas, favoreciendo una gestión comercial más eficiente y alineada con los objetivos de la organización. 
 
+    .row.justify-content-center.mb-4
+      .col-xl-10
+        .tarjeta-avatar-b.align-items-center
+          .tarjeta-avatar-b__img
+            img.imgw-190(src='@/assets/curso/common/video.png' alt='')
+          .tarjeta.bg-video.h-fitcontent
+            .p-4.py-5
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  h4.mb-2 Los 5 Kpis | Metricas fundamentales en #[em marketing] digital y métricas de Publicidad Digital
+                  p.mb-0 Para comprender los fundamentos del #[em branding], la construcción de identidad de marca y la forma en que los elementos estratégicos e idénticos influyen en la percepción de los consumidores y la diferenciación en el mercado, se recomienda revisar el siguiente recurso: 
+                .col-sm-auto
+                  .d-flex.gap-2.flex-column
+                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=hq18b03whBs&t=10s" target="_blank")
+                      span Enlace
+                      i.fas.fa-video
+                    a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=k2lL8JMg98E&t=532s" target="_blank")
+                      span Enlace
+                      i.fas.fa-video
 
-
-
-
+    .row.justify-content-center
+      .col-xl-10
+        .bg-audio.rounded-4.p-4.py-lg-0
+          .row.align-items-center.justify-content-center
+            .col-sm-8.col-lg-7
+              p A continuación, lo invitamos a consultar el siguiente pódcast:
+              TarjetaAudio.mb-3(
+                texto="Medir para crecer: indicadores, inteligencia artificial y decisiones de <em>marketing</em>"
+                tiempo
+                :audio="require_src('@/assets/curso/podcast/podcast1.mp3')"
+                @audio-hover="mostrarIndicadorTarjetaAudio = false")
+            .col-8.col-sm-4
+              figure
+                img.imgw-330(src="@/assets/curso/common/mic.png", alt="")
 
 
 
