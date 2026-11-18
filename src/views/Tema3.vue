@@ -116,7 +116,7 @@
         p.mb-0 A continuación, se presentan las principales etapas del proceso:  
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
-      .col-sm-6.col-lg-3
+      .col-sm-6.col-lg-3.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema3/7.png", alt="" data-aos="zoom-in-down")
       .col-lg-9

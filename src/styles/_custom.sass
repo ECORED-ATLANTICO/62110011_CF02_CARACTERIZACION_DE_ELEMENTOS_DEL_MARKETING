@@ -135,6 +135,20 @@ figcaption, table caption
     background-repeat: no-repeat
     @media screen and (min-width: $bp-min-lg)
       background-image: url("../assets/curso/common/bg-img-8.png")
+  &--9
+    background: linear-gradient(90deg, rgba(240, 245, 250, 0.98) 0%, rgba(195, 216, 233, 1) 100%)
+    background-position: center
+    background-size: cover
+    background-repeat: no-repeat
+    @media screen and (min-width: $bp-min-lg)
+      background-image: url("../assets/curso/common/bg-img-9.png")
+  &--10
+    background: linear-gradient(270deg, rgba(255, 247, 235, 0.98) 0%, rgba(255, 225, 179, 1) 100%)
+    background-position: center
+    background-size: cover
+    background-repeat: no-repeat
+    @media screen and (min-width: $bp-min-lg)
+      background-image: url("../assets/curso/common/bg-img-10.png")
 
 .bg-cards
   background-image: url("../assets/curso/common/bg-cards.png")
@@ -157,6 +171,8 @@ figcaption, table caption
   background-color: $color-primario-p5
 .bg-primario-p10
   background-color: $color-primario-p10
+.bg-secundario-s5
+  background-color: $color-secundario-s5
 .bg-secundario-s10
   background-color: $color-secundario-s10
 
@@ -177,6 +193,9 @@ figcaption, table caption
   margin: 0 auto
 .imgw-60
   width: 60px
+  margin: 0 auto
+.imgw-65
+  width: 65px
   margin: 0 auto
 .imgw-75
   width: 75px
@@ -244,4 +263,12 @@ figcaption, table caption
     font-size: 18px
     color: $white
   
- 
+.tabs-a__tab
+  background-color: $color-primario-p10
+
+.tabs-a
+  @media screen and (min-width: $bp-min-lg)
+    .col-lg-4.col-xl-3
+      width: 40% 
+    .col-lg-8.col-xl-9
+      width: 60%
