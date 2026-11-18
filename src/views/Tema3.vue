@@ -154,7 +154,7 @@
       .col-lg-9
         p La co-creación es una estrategia mediante la cual las organizaciones involucran a clientes, colaboradores, proveedores y otros grupos de interés en el desarrollo o mejoramiento de productos, servicios y experiencias. Este enfoque reconoce que el consumidor puede aportar conocimientos, ideas y perspectivas que enriquecen los procesos de innovación. 
         .row.justify-content-center.align-items-center.mb-3
-          .col-lg-1
+          .col-lg-1.d-none.d-lg-block
             figure
               img(src='@/assets/curso/tema3/17.svg', alt='')
           .col-lg-11
@@ -224,7 +224,7 @@
             h5.mb-3.text-center Implementar y mejorar
             p.mb-4.text-center Poner en práctica las soluciones validadas, evaluar sus resultados e incorporar las recomendaciones recibidas para fortalecer su valor y promover la mejora continua. 
 
-    .row.justify-content-center
+    .row.justify-content-center.mb-4
       .col-xl-10
         .tarjeta-avatar-b.align-items-center
           .tarjeta-avatar-b__img

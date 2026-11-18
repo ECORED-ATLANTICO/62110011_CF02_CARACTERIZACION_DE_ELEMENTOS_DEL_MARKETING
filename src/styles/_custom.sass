@@ -149,6 +149,13 @@ figcaption, table caption
     background-repeat: no-repeat
     @media screen and (min-width: $bp-min-lg)
       background-image: url("../assets/curso/common/bg-img-10.png")
+  &--11
+    background: linear-gradient(90deg, rgba(240, 245, 250, 0.98) 0%, rgba(190, 218, 210, 1) 100%)
+    background-position: center
+    background-size: cover
+    background-repeat: no-repeat
+    @media screen and (min-width: $bp-min-lg)
+      background-image: url("../assets/curso/common/bg-img-11.png")
 
 .bg-cards
   background-image: url("../assets/curso/common/bg-cards.png")
@@ -178,10 +185,12 @@ figcaption, table caption
   background-color: $color-secundario-s10
 
 .bg-slider
-  background: url('../assets/curso/common/bg-slider.png')
+  background-image: url('../assets/curso/common/bg-slider.png')
   background-size: cover
   background-position: center
   background-repeat: no-repeat
+  &--2
+    background-image: url('../assets/curso/common/bg-slider-2.png')
 
 .bg-video
   background: url('../assets/curso/common/bg-video.png')
@@ -289,3 +298,10 @@ figcaption, table caption
 
   &__tiempo
     color: $color-sistema-texto !important
+
+.slyder-a__tipo-a
+  @media screen and (max-width: $bp-min-md)
+    .slyder-a__btn--sigt
+      right: 0px !important
+    .slyder-a__btn--atrs
+      left: 0px !important
