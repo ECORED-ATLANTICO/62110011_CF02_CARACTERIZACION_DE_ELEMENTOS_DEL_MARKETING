@@ -165,7 +165,7 @@
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.5 Concepto de creación de valor
 
-    .bg-img--10.p-4.rounded-4
+    .bg-img--10.p-4.rounded-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-2.col-xl-1.d-none.d-lg-block.px-xl-0 
           figure
