@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Gestión y evaluación de estrategias de <em>marketing</em>',
     Description:
-      'El componente formativo desarrolla los fundamentos y herramientas para diseñar, implementar y evaluar estrategias de marketing acordes con las condiciones del mercado y los objetivos de la organización. Aborda la ideación, innovación, prototipado, conocimiento del consumidor, creación de valor, CRM, gestión de marca, marketing digital, mercadeo ecológico, responsabilidad social, presupuesto, indicadores, rendimiento financiero y auditoría de mercadeo, orientados al fortalecimiento de la gestión comercial. ',
+      'El componente formativo desarrolla los fundamentos y herramientas para diseñar, implementar y evaluar estrategias de <em>marketing</em> acordes con las condiciones del mercado y los objetivos de la organización. Aborda la ideación, innovación, prototipado, conocimiento del consumidor, creación de valor, CRM, gestión de marca, <em>marketing</em> digital, mercadeo ecológico, responsabilidad social, presupuesto, indicadores, rendimiento financiero y auditoría de mercadeo, orientados al fortalecimiento de la gestión comercial. ',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
     fondoBannerPrincipal: '@/assets/curso/portada/fondo-banner-principal.png',
   },
@@ -139,12 +139,12 @@ export default {
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Concepto de marketing digital',
+            titulo: 'Concepto de <em>marketing</em> digital',
             hash: 't_4_1',
           },
           {
             numero: '4.2',
-            titulo: 'Componentes del marketing digital',
+            titulo: 'Componentes del <em>marketing</em> digital',
             hash: 't_4_2',
           },
           {
@@ -288,14 +288,126 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Auditoría de mercadeo',
+      significado:
+        'Evaluación sistemática de estrategias, procesos y resultados de mercadeo para identificar fortalezas, oportunidades de mejora y apoyar decisiones organizacionales.',
+    },
+    {
+      termino: 'Co-creación',
+      significado:
+        'Proceso colaborativo donde empresa y clientes participan conjuntamente en el diseño, mejora o desarrollo de productos, servicios y experiencias.',
+    },
+    {
+      termino: 'Conocimiento del consumidor',
+      significado:
+        'Proceso de recopilación y análisis de información sobre necesidades, preferencias, comportamientos y expectativas para orientar decisiones de <em>marketing</em>.',
+    },
+    {
+      termino: 'Creación de valor',
+      significado:
+        'Proceso mediante el cual una organización genera beneficios diferenciadores que satisfacen necesidades del cliente y fortalecen su competitividad.',
+    },
+    {
+      termino: 'CRM (<em>Customer Relationship Management</em>)',
+      significado:
+        'Estrategia de gestión que permite administrar las relaciones con los clientes para fortalecer la fidelización, satisfacción y rentabilidad.',
+    },
+    {
+      termino: 'Gestión de marca',
+      significado:
+        'Conjunto de acciones orientadas a construir, posicionar, fortalecer y mantener la identidad, imagen y valor de una marca.',
+    },
+    {
+      termino: 'Ideación',
+      significado:
+        'Proceso creativo para generar, seleccionar y desarrollar ideas que respondan a necesidades, oportunidades o desafíos del mercado.',
+    },
+    {
+      termino: 'Indicadores de resultado',
+      significado:
+        'Medidas que permiten evaluar el desempeño, cumplimiento de objetivos y efectividad de las estrategias de <em>marketing</em>.',
+    },
+    {
+      termino: 'Innovación',
+      significado:
+        'Aplicación de nuevas ideas, procesos o soluciones que generan valor y mejoran la competitividad de la organización.',
+    },
+    {
+      termino: '<em>Marketing</em> digital',
+      significado:
+        'Estrategias y acciones desarrolladas mediante canales digitales para atraer, convertir, fidelizar clientes y medir resultados comerciales.',
+    },
+    {
+      termino: 'Mercadeo ecológico',
+      significado:
+        'Estrategia orientada a satisfacer necesidades del mercado mediante prácticas responsables con el ambiente y el desarrollo sostenible.',
+    },
+    {
+      termino: 'Presupuesto',
+      significado:
+        'Plan financiero que estima ingresos, costos y recursos necesarios para ejecutar estrategias y actividades de <em>marketing</em>.',
+    },
+    {
+      termino: 'Prototipado',
+      significado:
+        'Proceso de creación de modelos preliminares para validar ideas, productos o servicios antes de su implementación definitiva.',
+    },
+    {
+      termino: 'Rendimiento financiero',
+      significado:
+        'Medición de los resultados económicos obtenidos por las estrategias de <em>marketing</em> en relación con la inversión realizada.',
+    },
+    {
+      termino: 'Responsabilidad social',
+      significado:
+        'Compromiso organizacional de desarrollar acciones éticas, sostenibles y responsables con la sociedad, los colaboradores y el ambiente.',
     },
   ],
   referencias: [
     {
-      referencia: 'REF',
-      link: 'LINK',
+      referencia:
+        'Departamento Administrativo de la Función Pública. (2018). Guía para la construcción y análisis de indicadores de gestión (versión 4).',
+      link: 'https://www.funcionpublica.gov.co/detalle-publicacion?entryId=768337&utm',
+    },
+    {
+      referencia:
+        'Kotler, P., & Armstrong, G. (2021). Fundamentos de <em>marketing</em> (19.ª ed.). Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Kotler, P., Kartajaya, H., & Setiawan, I. (2021). <em>Marketing</em> 5.0: Tecnología para la humanidad. LID Editorial.',
+      link: 'https://www.lideditorial.com/',
+    },
+    {
+      referencia:
+        'Kotler, P., Keller, K. L., & Chernev, A. (2022). Dirección de <em>marketing</em> (16.ª ed.). Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Lozano, G. (1984). Promoción de ventas. Servicio Nacional de Aprendizaje (SENA).',
+      link: 'https://repositorio.sena.edu.co/bitstream/handle/11404/5441/tecnicas_de_comercializacion_5.PDF?sequence=1&isAllowed=y',
+    },
+    {
+      referencia:
+        'Malhotra, N. K. (2020). Investigación de mercados (7.ª ed.). Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Schiffman, L. G., & Wisenblit, J. (2015). Comportamiento del consumidor (11.ª ed.). Pearson Educación.',
+      link: '',
+    },
+    {
+      referencia:
+        'Osterwalder, A., Pigneur, Y., Bernarda, G., & Smith, A. (2015). Diseñando la propuesta de valor. Deusto.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ecoe Ediciones. (2023). <em>Marketing</em> digital: Estrategias para la transformación empresarial.',
+      link: 'https://ecoeediciones.com/',
     },
   ],
   creditos: [
@@ -319,18 +431,13 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Mario Morales Cabrera',
+          cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
+          nombre: 'Jair Coll Gallardo',
+          cargo: 'Evaluador Instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -339,12 +446,12 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
+          nombre: 'Carmen Marcela Guerrero Arévalo',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Fabio Fonseca Arguelles',
           cargo: 'Desarrollador <i>full stack</i>',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -365,21 +472,21 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
-        },
-        {
-          nombre: 'Jonathan Adié Villafañe',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Laura Daniela Burgos Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
+        },
+        {
+          nombre: 'Jonathan Adié Villafañe',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },

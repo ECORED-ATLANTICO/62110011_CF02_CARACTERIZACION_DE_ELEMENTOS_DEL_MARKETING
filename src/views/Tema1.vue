@@ -11,7 +11,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4(data-aos="fade-down")
         div.banner-text.shadow.mb-3
-          p.mb-0 Comprender Las organizaciones enfrentan mercados dinámicos donde las necesidades de los consumidores, la competencia y los avances tecnológicos evolucionan constantemente. En este contexto, la ideación y la innovación constituyen procesos fundamentales para identificar oportunidades, desarrollar propuestas de valor y fortalecer las estrategias de marketing. 
+          p.mb-0 Comprender Las organizaciones enfrentan mercados dinámicos donde las necesidades de los consumidores, la competencia y los avances tecnológicos evolucionan constantemente. En este contexto, la ideación y la innovación constituyen procesos fundamentales para identificar oportunidades, desarrollar propuestas de valor y fortalecer las estrategias de #[em marketing]. 
 
     .row.justify-content-center
       .col-xl-10
@@ -25,7 +25,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
-        p La ideación es el proceso mediante el cual se generan, organizan y seleccionan ideas para resolver problemas o aprovechar oportunidades identificadas en el mercado. En el contexto del marketing, representa la etapa inicial para diseñar nuevos productos, servicios, campañas o mejoras que respondan a las necesidades de los consumidores y a los objetivos estratégicos de la organización. 
+        p La ideación es el proceso mediante el cual se generan, organizan y seleccionan ideas para resolver problemas o aprovechar oportunidades identificadas en el mercado. En el contexto del #[em marketing], representa la etapa inicial para diseñar nuevos productos, servicios, campañas o mejoras que respondan a las necesidades de los consumidores y a los objetivos estratégicos de la organización. 
         .bg-gradiente-contenido.p-4.rounded-4.mb-4.mb-lg-0
           p.mb-0 Este proceso requiere creatividad, análisis y trabajo colaborativo. Las ideas pueden surgir del estudio del comportamiento del consumidor, de la observación de la competencia, del análisis de tendencias o de la participación de colaboradores y clientes. Posteriormente, estas propuestas son evaluadas según criterios como viabilidad, innovación, costo e impacto comercial antes de avanzar a su implementación. 
       .col-sm-6.col-lg-3
@@ -151,7 +151,7 @@
         :style="{'background-image': `url(${require_src('@/assets/curso/tema1/10.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La innovación consiste en transformar una idea en un producto, servicio, proceso o estrategia que genere valor para los clientes y la organización. En marketing, representa la capacidad de ofrecer soluciones diferenciadas que permitan responder a los cambios del entorno, mejorar la experiencia del consumidor y fortalecer la competitividad empresarial.
+        p.mb-0 La innovación consiste en transformar una idea en un producto, servicio, proceso o estrategia que genere valor para los clientes y la organización. En #[em marketing], representa la capacidad de ofrecer soluciones diferenciadas que permitan responder a los cambios del entorno, mejorar la experiencia del consumidor y fortalecer la competitividad empresarial.
 
     .row.justify-content-center.align-items-center
       .col-lg-9

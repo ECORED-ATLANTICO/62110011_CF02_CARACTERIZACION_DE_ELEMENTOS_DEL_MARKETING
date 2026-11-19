@@ -112,7 +112,7 @@
             img(src='@/assets/curso/tema2/7.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") El conocimiento del consumidor consiste en comprender las características, necesidades, motivaciones, hábitos de compra y expectativas de los clientes. Esta información permite diseñar estrategias de marketing más efectivas y desarrollar propuestas de valor alineadas con las demandas del mercado. 
+            p.mb-0(data-aos="fade-up") El conocimiento del consumidor consiste en comprender las características, necesidades, motivaciones, hábitos de compra y expectativas de los clientes. Esta información permite diseñar estrategias de #[em marketing] más efectivas y desarrollar propuestas de valor alineadas con las demandas del mercado. 
 
     p.mb-0 Las organizaciones obtienen este conocimiento mediante encuestas, entrevistas, análisis de datos, observación del comportamiento de compra y estudios de mercado. La información recopilada facilita la segmentación de clientes y la personalización de productos, servicios y campañas comerciales. 
 

@@ -14,7 +14,7 @@
             img(src='@/assets/curso/tema4/1.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") Las organizaciones integran estrategias de marketing digital y mercadeo sostenible para fortalecer su competitividad, responder a las necesidades de los consumidores y generar valor. Estas estrategias incorporan el uso de tecnologías digitales, prácticas ambientalmente responsables y acciones de responsabilidad social que contribuyen al crecimiento sostenible de la organización. 
+            p.mb-0(data-aos="fade-up") Las organizaciones integran estrategias de #[em marketing] digital y mercadeo sostenible para fortalecer su competitividad, responder a las necesidades de los consumidores y generar valor. Estas estrategias incorporan el uso de tecnologías digitales, prácticas ambientalmente responsables y acciones de responsabilidad social que contribuyen al crecimiento sostenible de la organización. 
 
     separador
     
@@ -25,26 +25,26 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4(data-aos="fade-down")
         div.banner-text.shadow.mb-3
-          p.mb-0 El marketing digital es la aplicación de los principios del marketing en entornos digitales, utilizando internet y las tecnologías digitales como canales de comunicación, posicionamiento y comercialización. Su enfoque no se limita a vender productos o servicios, sino a construir relaciones sostenibles con los consumidores mediante experiencias digitales personalizadas. 
+          p.mb-0 El #[em marketing] digital es la aplicación de los principios del #[em marketing] en entornos digitales, utilizando internet y las tecnologías digitales como canales de comunicación, posicionamiento y comercialización. Su enfoque no se limita a vender productos o servicios, sino a construir relaciones sostenibles con los consumidores mediante experiencias digitales personalizadas. 
 
-    .row.justify-content-center.mb-5.align-items-center
+    .row.justify-content-center.align-items-center
       .col-lg-1.d-none.d-lg-block
         figure
           img.mb-4.mb-lg-0(src='@/assets/curso/tema4/3.png' alt='')
       .col-lg-11
-        p.mb-0 En este contexto, la comunicación es bidireccional: las organizaciones emiten mensajes y, al mismo tiempo, reciben retroalimentación inmediata a través de comentarios, interacciones y datos de comportamiento. Por ejemplo, plataformas como Netflix analizan los hábitos de visualización de los usuarios para recomendar contenido personalizado, convirtiendo la experiencia en un elemento estratégico de fidelización. De esta manera, el marketing digital transforma la relación tradicional empresa-cliente en un proceso dinámico basado en datos, interacción y generación de valor. 
+        p.mb-0 En este contexto, la comunicación es bidireccional: las organizaciones emiten mensajes y, al mismo tiempo, reciben retroalimentación inmediata a través de comentarios, interacciones y datos de comportamiento. Por ejemplo, plataformas como Netflix analizan los hábitos de visualización de los usuarios para recomendar contenido personalizado, convirtiendo la experiencia en un elemento estratégico de fidelización. De esta manera, el #[em marketing] digital transforma la relación tradicional empresa-cliente en un proceso dinámico basado en datos, interacción y generación de valor. 
     
     separador
     #t_4_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.2 Componentes del marketing digital
+      h2 4.2 Componentes del #[em marketing] digital
 
-    .bg-img--10.p-4.rounded-4
+    .bg-img--10.p-4.rounded-4.mb-4
       .row.justify-content-center.align-items-center
         .col-lg-2.col-xl-1.d-none.d-lg-block.px-xl-0 
           figure
             img.imgw-60.mb-4.mb-lg-0(src="@/assets/curso/tema4/4.png", alt="" data-aos="zoom-in-down")
         .col-lg-10.col-xl-11
-          p.mb-0 El marketing digital integra estrategias, herramientas y procesos que permiten a las empresas comprender el comportamiento de los consumidores en entornos digitales, establecer una comunicación efectiva y ofrecer experiencias personalizadas. Su aplicación facilita la identificación de oportunidades comerciales, la evaluación de resultados y el mejoramiento de las acciones de mercadeo para fortalecer la relación con los clientes. A continuación, se presenta los componentes que hacen parte del marketing digital: 
+          p.mb-0 El #[em marketing] digital integra estrategias, herramientas y procesos que permiten a las empresas comprender el comportamiento de los consumidores en entornos digitales, establecer una comunicación efectiva y ofrecer experiencias personalizadas. Su aplicación facilita la identificación de oportunidades comerciales, la evaluación de resultados y el mejoramiento de las acciones de mercadeo para fortalecer la relación con los clientes. A continuación, se presenta los componentes que hacen parte del ma#[em marketing]rketing digital: 
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
@@ -83,7 +83,7 @@
           img.mb-4.mb-lg-0.imgw-65(src='@/assets/curso/tema4/6.png' alt='')
       .col-lg-11
         p.mb-0 Estos fundamentos permiten que cada acción digital esté respaldada por información verificable y objetivos medibles.
-        p.mb-0 Las estrategias del marketing digital definen la dirección general que guiará las acciones digitales, alineándolas con metas organizacionales específicas. 
+        p.mb-0 Las estrategias del #[em marketing] digital definen la dirección general que guiará las acciones digitales, alineándolas con metas organizacionales específicas. 
 
     p.mb-4 Entre las principales estrategias se destacan: 
 
@@ -121,7 +121,7 @@
             img.imgw-154(src='@/assets/curso/tema1/3.png' alt='')
           .tarjeta.bg-img--primario.h-fitcontent
             .p-4
-              p.mb-0 Por ejemplo, HubSpot basa su estrategia en inbound marketing, ofreciendo recursos educativos gratuitos que atraen prospectos y los convierten progresivamente en clientes mediante automatización y seguimiento personalizado. La estrategia establece el propósito general; orienta la inversión, los canales y los mensajes clave. 
+              p.mb-0 Por ejemplo, HubSpot basa su estrategia en inbound #[em marketing], ofreciendo recursos educativos gratuitos que atraen prospectos y los convierten progresivamente en clientes mediante automatización y seguimiento personalizado. La estrategia establece el propósito general; orienta la inversión, los canales y los mensajes clave. 
 
     .row.justify-content-center.mb-4
       .col-xl-10
@@ -138,7 +138,7 @@
       
     .row.justify-content-center
       .col-xl-10
-        p Un caso representativo es Adidas, que utiliza campañas de remarketing para impactar nuevamente a usuarios que visitaron su tienda online pero no finalizaron la compra, incrementando así la tasa de conversión. 
+        p Un caso representativo es Adidas, que utiliza campañas de #[em remarketing] para impactar nuevamente a usuarios que visitaron su tienda online pero no finalizaron la compra, incrementando así la tasa de conversión. 
         p.mb-0 Mientras la estrategia define el rumbo, las tácticas materializan la ejecución mediante herramientas y acciones específicas. 
 
     separador
@@ -150,12 +150,12 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/12.png", alt="" data-aos="zoom-in-down")
       .col-lg-9
-        p El mercadeo ecológico, también denominado marketing verde o green marketing, consiste en el diseño, promoción y comercialización de productos y servicios que buscan satisfacer las necesidades de los consumidores, minimizando al mismo tiempo los impactos negativos sobre el medio ambiente. Este enfoque integra criterios de sostenibilidad en las decisiones comerciales, promoviendo un equilibrio entre el crecimiento económico, la protección de los recursos naturales y el bienestar de la sociedad. 
+        p El mercadeo ecológico, también denominado #[em marketing] verde o green #[em marketing], consiste en el diseño, promoción y comercialización de productos y servicios que buscan satisfacer las necesidades de los consumidores, minimizando al mismo tiempo los impactos negativos sobre el medio ambiente. Este enfoque integra criterios de sostenibilidad en las decisiones comerciales, promoviendo un equilibrio entre el crecimiento económico, la protección de los recursos naturales y el bienestar de la sociedad. 
         .bg-img--12.rounded-4.p-4.mb-4.mb-lg-0
           .row.justify-content-center.align-items-center
             .col-lg-2.col-xl-1.p-0.d-none.d-lg-block
               figure
-                img(src='@/assets/curso/tema4/23.svg', alt='')
+                img.imgw-65(src='@/assets/curso/tema4/23.svg', alt='')
             .col-lg-10.col-xl-11
               p.mb-0 Las organizaciones que implementan estrategias de mercadeo ecológico procuran optimizar el uso de materias primas, reducir la generación de residuos, utilizar empaques sostenibles y fomentar prácticas responsables durante todo el ciclo de vida del producto. De esta manera, además de fortalecer su imagen corporativa, responden a un consumidor cada vez más consciente de los impactos ambientales derivados del consumo. 
 
@@ -184,35 +184,35 @@
         .row.justify-content-center.align-items-center
           .col-lg-5
             h5.mb-4 Diseño sostenible 
-            p.mb-0 Incorpora criterios ambientales desde la creación de productos o servicios, considerando materiales, durabilidad, eficiencia y posibilidades de reutilización o reciclaje. Busca reducir los impactos ambientales durante su ciclo de vida, sin afectar su funcionalidad y calidad. 
+            p.mb-4.mb-lg-0 Incorpora criterios ambientales desde la creación de productos o servicios, considerando materiales, durabilidad, eficiencia y posibilidades de reutilización o reciclaje. Busca reducir los impactos ambientales durante su ciclo de vida, sin afectar su funcionalidad y calidad. 
           .col-sm-8.col-lg-6
             figure
               img(src='@/assets/curso/tema4/13.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-5
             h5.mb-4 Producción responsable 
-            p.mb-0 Promueve procesos productivos que utilizan eficientemente el agua, la energía y las materias primas, procurando reducir residuos, emisiones y contaminación. También considera prácticas laborales responsables y el cumplimiento de la normativa ambiental aplicable. 
+            p.mb-4.mb-lg-0 Promueve procesos productivos que utilizan eficientemente el agua, la energía y las materias primas, procurando reducir residuos, emisiones y contaminación. También considera prácticas laborales responsables y el cumplimiento de la normativa ambiental aplicable. 
           .col-sm-8.col-lg-6
             figure
               img(src='@/assets/curso/tema4/14.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-5
             h5.mb-4 Empaques sostenibles 
-            p.mb-0 Desarrolla envases y embalajes que buscan disminuir el impacto ambiental mediante la reducción de materiales, el uso de componentes reciclados o reciclables y alternativas reutilizables. Su diseño debe garantizar la protección y conservación adecuada del producto. 
+            p.mb-4.mb-lg-0 Desarrolla envases y embalajes que buscan disminuir el impacto ambiental mediante la reducción de materiales, el uso de componentes reciclados o reciclables y alternativas reutilizables. Su diseño debe garantizar la protección y conservación adecuada del producto. 
           .col-sm-8.col-lg-6
             figure
               img(src='@/assets/curso/tema4/15.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-5
             h5.mb-4 Comunicación ambiental 
-            p.mb-0 Transmite información clara, verificable y transparente sobre las características ambientales de los productos y las prácticas sostenibles de la empresa. Busca informar al consumidor y fortalecer la confianza, evitando afirmaciones engañosas o exageradas sobre los beneficios ecológicos. 
+            p.mb-4.mb-lg-0 Transmite información clara, verificable y transparente sobre las características ambientales de los productos y las prácticas sostenibles de la empresa. Busca informar al consumidor y fortalecer la confianza, evitando afirmaciones engañosas o exageradas sobre los beneficios ecológicos. 
           .col-sm-8.col-lg-6
             figure
               img(src='@/assets/curso/tema4/16.png', alt='')
         .row.justify-content-center.align-items-center
           .col-lg-5
             h5.mb-4 Consumo responsable 
-            p.mb-0 Fomenta decisiones de compra y utilización que consideran las necesidades reales del consumidor, la durabilidad de los productos y sus efectos ambientales. Promueve hábitos como reducir el desperdicio, reutilizar materiales y disponer adecuadamente de los residuos. 
+            p.mb-4.mb-lg-0 Fomenta decisiones de compra y utilización que consideran las necesidades reales del consumidor, la durabilidad de los productos y sus efectos ambientales. Promueve hábitos como reducir el desperdicio, reutilizar materiales y disponer adecuadamente de los residuos. 
           .col-sm-8.col-lg-6
             figure
               img(src='@/assets/curso/tema4/17.png', alt='')
@@ -265,7 +265,7 @@
                 img.imgw-65(src='@/assets/curso/tema4/21.png', alt='')
             .col-lg-10.col-xl-11
               p.mb-0 Este enfoque implica actuar con ética, transparencia y respeto hacia colaboradores, clientes, proveedores, comunidades y medio ambiente, integrando estos principios en la planeación estratégica y en las decisiones empresariales. 
-        p.mb-0 La responsabilidad social fortalece la reputación corporativa, mejora las relaciones con los diferentes actores y genera confianza entre consumidores cada vez más interesados en organizaciones comprometidas con el desarrollo sostenible. 
+        p.mb-4.mb-lg-0 La responsabilidad social fortalece la reputación corporativa, mejora las relaciones con los diferentes actores y genera confianza entre consumidores cada vez más interesados en organizaciones comprometidas con el desarrollo sostenible. 
       .col-sm-6.col-lg-3
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema4/20.png", alt="")

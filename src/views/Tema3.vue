@@ -32,7 +32,7 @@
       .col-lg-9
         p La gestión de las relaciones con los clientes, conocida por las siglas CRM (#[em Customer Relationship Management]), es una estrategia empresarial orientada a administrar de manera organizada la información, las interacciones y las necesidades de los clientes durante todas las etapas de la relación comercial. Su propósito es fortalecer el vínculo entre la organización y el consumidor, incrementando la satisfacción, la fidelización y la rentabilidad. 
         .bg-gradiente-contenido.p-4.rounded-4.mb-3
-          p.mb-0 El CRM integra personas, procesos y tecnologías para recopilar información sobre los clientes, analizar su comportamiento y ofrecer respuestas oportunas que contribuyan a mejorar la experiencia de compra. De esta manera, la organización puede conocer las preferencias de sus consumidores, anticipar sus necesidades y desarrollar estrategias de marketing más efectivas.
+          p.mb-0 El CRM integra personas, procesos y tecnologías para recopilar información sobre los clientes, analizar su comportamiento y ofrecer respuestas oportunas que contribuyan a mejorar la experiencia de compra. De esta manera, la organización puede conocer las preferencias de sus consumidores, anticipar sus necesidades y desarrollar estrategias de #[em marketing] más efectivas.
         p.mb-0 La información obtenida mediante un sistema CRM permite segmentar clientes, personalizar ofertas comerciales, realizar seguimiento a las ventas y evaluar el nivel de satisfacción de los consumidores. Asimismo, facilita la toma de decisiones basada en datos y fortalece la comunicación entre las diferentes áreas de la empresa. 
         
     .row.justify-content-center
@@ -159,7 +159,7 @@
               img(src='@/assets/curso/tema3/17.svg', alt='')
           .col-lg-11
             .bg-img--2.p-4.rounded-4
-              p.mb-0 En marketing, la co-creación fortalece la relación entre la empresa y sus clientes al convertirlos en participantes activos del proceso de generación de valor. Como resultado, las organizaciones desarrollan soluciones más cercanas a las expectativas del mercado y fortalecen la confianza de sus consumidores. 
+              p.mb-0 En #[em marketing], la co-creación fortalece la relación entre la empresa y sus clientes al convertirlos en participantes activos del proceso de generación de valor. Como resultado, las organizaciones desarrollan soluciones más cercanas a las expectativas del mercado y fortalecen la confianza de sus consumidores. 
         p.mb-4.mb-lg-0 La participación colaborativa también favorece la creatividad, reduce el riesgo asociado al lanzamiento de nuevos productos y mejora la aceptación de las propuestas comerciales. Además, contribuye a consolidar relaciones de largo plazo basadas en la interacción y el compromiso mutuo. 
       .col-sm-6.col-lg-3
         figure

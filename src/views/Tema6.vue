@@ -24,11 +24,11 @@
         figure
           img.mb-4.mb-lg-0(src='@/assets/curso/tema1/4.png' alt='')
       .col-lg-11
-        p Los indicadores de resultado son medidas cuantitativas o cualitativas que permiten evaluar el desempeño de las estrategias de marketing y verificar el grado de cumplimiento de los objetivos organizacionales. Estos indicadores facilitan el seguimiento de las actividades desarrolladas y proporcionan información confiable para apoyar la toma de decisiones
+        p Los indicadores de resultado son medidas cuantitativas o cualitativas que permiten evaluar el desempeño de las estrategias de #[em marketing] y verificar el grado de cumplimiento de los objetivos organizacionales. Estos indicadores facilitan el seguimiento de las actividades desarrolladas y proporcionan información confiable para apoyar la toma de decisiones
         p.mb-0 Las organizaciones utilizan indicadores para medir variables como: 
 
     .row.justify-content-center.align-items-center
-      .col-lg-8
+      .col-xl-8
         SlyderF(columnas="col-lg-6")
           .tarjeta.bg-cards.p-4.pt-5
             .row.justify-content-center.mb-3
@@ -65,7 +65,7 @@
             h5.mb-3.text-center Fidelización de los consumidores 
             p.mb-0.text-center Evalúa la capacidad de la empresa para conservar clientes y fomentar compras recurrentes mediante experiencias satisfactorias.  
             p.mb-0.text-center #[strong Ejemplo]: Una cafetería identifica que el 70 % de sus clientes habituales continúa comprando durante el siguiente trimestre.
-      .col-sm-8.col-lg-4
+      .col-sm-8.col-lg-4.d-none.d-xl-block
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema6/1.png", alt="")
     
@@ -110,7 +110,7 @@
       .col-xl-7
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 4.
-          span Principales indicadores de resultado en marketing
+          span Principales indicadores de resultado en #[em marketing]
         .tabla-a.color-secundario.tabla-a--text-left.mb-4
           table
             thead
@@ -215,7 +215,7 @@
           .tarjeta.bg-secundario-s5.p-4(titulo="Análisis")
             p.mb-0 Comparación entre los objetivos planteados, los indicadores definidos y los resultados realmente obtenidos. Se identifican fortalezas, debilidades, desviaciones y oportunidades de mejora para determinar la efectividad de las acciones implementadas. 
           .tarjeta.bg-secundario-s5.p-4(titulo="Informe")
-            p.mb-0 Presentación formal de los hallazgos, conclusiones y recomendaciones derivadas del estudio. El documento incluye evidencias, resultados de la evaluación y propuestas de mejora orientadas a optimizar el desempeño de las estrategias de marketing. 
+            p.mb-0 Presentación formal de los hallazgos, conclusiones y recomendaciones derivadas del estudio. El documento incluye evidencias, resultados de la evaluación y propuestas de mejora orientadas a optimizar el desempeño de las estrategias de #[em marketing]. 
           .tarjeta.bg-secundario-s5.p-4(titulo="Seguimiento")
             p.mb-0 Verificación sistemática del cumplimiento de las acciones de mejora acordadas. Se revisan los avances, se evalúa la efectividad de las medidas implementadas y se establecen ajustes cuando sea necesario para asegurar la mejora continua. 
       .col-sm-6.col-lg-3
@@ -225,7 +225,7 @@
     .row.justify-content-center
       .col-xl-10
         .cajon.color-secundario.p-4
-          p.mb-0 La aplicación de estas etapas permite fortalecer el control de las estrategias de marketing y apoyar de manera efectiva el proceso de mejoramiento continuo. 
+          p.mb-0 La aplicación de estas etapas permite fortalecer el control de las estrategias de #[em marketing] y apoyar de manera efectiva el proceso de mejoramiento continuo. 
     
     separador
     #t_6_6.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -255,7 +255,7 @@
                 figure
                   img.imgw-105.mb-2(src='@/assets/curso/tema6/11.svg' alt='')
             h5.mb-3.text-center Estrategias
-            p.mb-4.text-center Evaluación de la alineación de los objetivos y los planes de marketing.
+            p.mb-4.text-center Evaluación de la alineación de los objetivos y los planes de #[em marketing].
           .tarjeta.bg-cards.bg-cards--2.p-4.pt-5
             .row.justify-content-center.mb-3
               .col-6.col-sm-5

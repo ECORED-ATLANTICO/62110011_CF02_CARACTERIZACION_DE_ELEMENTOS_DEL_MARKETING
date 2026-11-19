@@ -11,7 +11,7 @@
     .row.justify-content-center.z-2
       .col-lg-10.p-4(data-aos="fade-down")
         div.banner-text.shadow.mb-3
-          p.mb-0 La planeación financiera constituye un elemento fundamental para garantizar que las estrategias de marketing se ejecuten de manera eficiente y contribuyan al logro de los objetivos comerciales. Mediante la asignación adecuada de recursos, la evaluación del rendimiento financiero y el seguimiento de los resultados, las organizaciones pueden optimizar sus inversiones, controlar los costos y fortalecer la toma de decisiones basada en información objetiva. 
+          p.mb-0 La planeación financiera constituye un elemento fundamental para garantizar que las estrategias de #[em marketing] se ejecuten de manera eficiente y contribuyan al logro de los objetivos comerciales. Mediante la asignación adecuada de recursos, la evaluación del rendimiento financiero y el seguimiento de los resultados, las organizaciones pueden optimizar sus inversiones, controlar los costos y fortalecer la toma de decisiones basada en información objetiva. 
 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -22,7 +22,7 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema5/2.png", alt="" data-aos="zoom-in-down")
       .col-lg-9
-        p El presupuesto es un instrumento de planificación financiera que estima los recursos económicos necesarios para ejecutar las actividades de marketing durante un período determinado. Su finalidad es organizar la inversión, controlar los gastos y garantizar que las estrategias comerciales se desarrollen de acuerdo con las prioridades de la organización. 
+        p El presupuesto es un instrumento de planificación financiera que estima los recursos económicos necesarios para ejecutar las actividades de #[em marketing] durante un período determinado. Su finalidad es organizar la inversión, controlar los gastos y garantizar que las estrategias comerciales se desarrollen de acuerdo con las prioridades de la organización. 
         .bg-img--7.p-4.rounded-4.mb-3
           .row.justify-content-center.align-items-center
             .col-lg-2.col-xl-1.d-none.d-lg-block
@@ -83,7 +83,7 @@
           figure
             img(src='@/assets/curso/tema5/8.svg' alt='')
         .col-lg-11
-          p.mb-0 Un presupuesto de marketing generalmente incluye los recursos destinados a publicidad, promoción, investigación de mercados, desarrollo de contenidos, herramientas tecnológicas, eventos comerciales, capacitación y evaluación de resultados. 
+          p.mb-0 Un presupuesto de #[em marketing] generalmente incluye los recursos destinados a publicidad, promoción, investigación de mercados, desarrollo de contenidos, herramientas tecnológicas, eventos comerciales, capacitación y evaluación de resultados. 
     
     .row.justify-content-center.mb-4
       .col-xl-10
@@ -107,7 +107,7 @@
         figure
           img.mb-4.mb-lg-0(src='@/assets/curso/tema5/9.png' alt='')
       .col-lg-11
-        p El rendimiento financiero corresponde a la evaluación de los resultados económicos obtenidos como consecuencia de la inversión realizada en las estrategias de marketing. Su análisis permite determinar si las acciones ejecutadas generan beneficios para la organización y contribuyen al cumplimiento de los objetivos comerciales. 
+        p El rendimiento financiero corresponde a la evaluación de los resultados económicos obtenidos como consecuencia de la inversión realizada en las estrategias de #[em marketing]. Su análisis permite determinar si las acciones ejecutadas generan beneficios para la organización y contribuyen al cumplimiento de los objetivos comerciales. 
         p.mb-0 Entre los indicadores más utilizados se encuentran:
     
     .titulo-sexto.color-acento-contenido
@@ -155,7 +155,7 @@
     #t_5_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 5.5 Herramientas para evaluar el rendimiento financiero 
 
-    p.mb-4 Las organizaciones utilizan diferentes herramientas para medir el desempeño de sus estrategias de marketing. Entre las más empleadas se encuentran: 
+    p.mb-4 Las organizaciones utilizan diferentes herramientas para medir el desempeño de sus estrategias de #[em marketing]. Entre las más empleadas se encuentran: 
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 2.
@@ -174,8 +174,8 @@
             td(colspan="2") Ingresos atribuidos a publicidad / Inversión publicitaria 
           tr
             td #[strong Costo de adquisición de clientes (CAC)]
-            td(colspan="2") Calcula cuánto invierte la empresa en marketing y ventas para conseguir cada nuevo cliente. 
-            td(colspan="2") Costos de adquisición de marketing y ventas / Nuevos clientes 
+            td(colspan="2") Calcula cuánto invierte la empresa en #[em marketing] y ventas para conseguir cada nuevo cliente. 
+            td(colspan="2") Costos de adquisición de #[em marketing] y ventas / Nuevos clientes 
           tr
             td #[strong Valor de vida del cliente (CLV)]
             td(colspan="2") Estima el valor económico que genera un cliente durante su relación comercial con la empresa. 
@@ -194,7 +194,7 @@
               img(src="@/assets/curso/tema5/12.svg", alt="")
             .col-lg-10.col-xl-11
               p.mb-0 Por ejemplo, Google Analytics proporciona información sobre el comportamiento de los usuarios en un sitio web, permitiendo evaluar la efectividad de las campañas digitales y medir el cumplimiento de los objetivos establecidos.
-        p.mb-4.mb-lg-0 La siguiente tabla presenta herramientas digitales clave utilizadas en marketing digital, destacando su función principal y su aporte a la gestión, análisis y optimización de las estrategias digitales. 
+        p.mb-4.mb-lg-0 La siguiente tabla presenta herramientas digitales clave utilizadas en #[em marketing] digital, destacando su función principal y su aporte a la gestión, análisis y optimización de las estrategias digitales. 
       .col-sm-6.col-lg-3
         figure
           img(src='@/assets/curso/tema5/11.png' alt='')
@@ -237,8 +237,8 @@
             .p-4.py-5
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-2 Cómo calcular el ROI de una campaña de #[em Marketing] Digital
-                  p.mb-0 El estudio y la aplicación del retorno de la inversión (ROI) en las campañas de marketing digital permiten sustentar de manera rigurosa los presupuestos y las estrategias de promoción ante los estamentos directivos. Para profundizar en el desarrollo metodológico y la utilización del modelo analítico, es posible consultar el siguiente recurso audiovisual: 
+                  h4.mb-2 Cómo calcular el ROI de una campaña de #[em marketing] digital
+                  p.mb-0 El estudio y la aplicación del retorno de la inversión (ROI) en las campañas de #[em marketing] digital permiten sustentar de manera rigurosa los presupuestos y las estrategias de promoción ante los estamentos directivos. Para profundizar en el desarrollo metodológico y la utilización del modelo analítico, es posible consultar el siguiente recurso audiovisual: 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=8pdH5u9R0oY&t=96s" target="_blank")
                     span Enlace
