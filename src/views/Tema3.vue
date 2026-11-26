@@ -83,7 +83,7 @@
             img(src='@/assets/curso/tema3/5.png', alt='')
         .col-lg
           .p-4
-            p.mb-0(data-aos="fade-up") La gestión de marca, conocida como branding, comprende el conjunto de estrategias orientadas a construir, posicionar y fortalecer la identidad de una organización en la mente de los consumidores. Su finalidad es lograr que la marca sea reconocida, genere confianza y establezca una relación emocional con su público objetivo. 
+            p.mb-0(data-aos="fade-up") La gestión de marca, conocida como #[em branding], comprende el conjunto de estrategias orientadas a construir, posicionar y fortalecer la identidad de una organización en la mente de los consumidores. Su finalidad es lograr que la marca sea reconocida, genere confianza y establezca una relación emocional con su público objetivo. 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
@@ -105,7 +105,7 @@
     
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 3.4 Concepto de branding
+      h2 3.4 Proceso de gestión de marca
 
     .row.justify-content-center.mb-5.align-items-center
       .col-lg-1.d-none.d-lg-block
@@ -242,8 +242,8 @@
             .p-4.py-5
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-2 ¿Qué es #[em BRANDING]?
-                  p.mb-0 Para comprender los fundamentos del branding, la construcción de identidad de marca y la forma en que los elementos estratégicos e idénticos influyen en la percepción de los consumidores y la diferenciación en el mercado, se recomienda revisar el siguiente recurso: 
+                  h4.mb-2 ¿Qué es #[em branding]?
+                  p.mb-0 Para comprender los fundamentos del #[em branding], la construcción de identidad de marca y la forma en que los elementos estratégicos e idénticos influyen en la percepción de los consumidores y la diferenciación en el mercado, se recomienda revisar el siguiente recurso: 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=ZdFpM6cOlpQ" target="_blank")
                     span Enlace

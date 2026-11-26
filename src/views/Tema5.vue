@@ -112,7 +112,7 @@
     
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
-      span Etapas generales del embudo de conversión
+      span Indicadores financieros más empleados en #[em marketing]
     .tabla-a.color-secundario.tabla-a--text-left.mb-4
       table
         thead
@@ -204,6 +204,7 @@
       span  Herramientas digitales recomendadas para #[em marketing online]
     .tabla-a.color-secundario.tabla-a--text-left.mb-5
       table
+        caption Nota. Adaptada Kotler & Keller, (2021); David, (2020); Laudon & Laudon, (2020); SENA (2026).
         thead
           tr(style="background-color: #FEF5F7")
             th Herramienta

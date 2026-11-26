@@ -61,32 +61,32 @@
             .row.justify-content-center.py-4
               .col-10
                 div.p-4
-                  h5 1. Definir la idea
+                  h5 A. Definir la idea
                   p.mb-0 Identificar el problema, los objetivos y los requisitos principales de la solución.
             .row.justify-content-center.py-4
               .col-10
                 div.p-4
-                  h5 2. Diseñar el prototipo
+                  h5 B. Diseñar el prototipo
                   p.mb-0 Representar la idea mediante un boceto, maqueta o modelo digital sencillo.
             .row.justify-content-center.py-4
               .col-10
                 div.p-4
-                  h5 3. Construir el prototipo
+                  h5 C. Construir el prototipo
                   p.mb-0 Elaborar el modelo utilizando materiales físicos o herramientas digitales, según el tipo de producto o servicio.
             .row.justify-content-center.py-4
               .col-10
                 div.p-4
-                  h5 4. Probar y evaluar
+                  h5 D. Probar y evaluar
                   p.mb-0 Realizar pruebas con usuarios o clientes potenciales para conocer su funcionamiento, aceptación y posibles mejoras.
             .row.justify-content-center.py-4
               .col-10
                 div.p-4
-                  h5 5. Analizar resultados
+                  h5 E. Analizar resultados
                   p.mb-0 Recopilar y analizar la información obtenida en las pruebas para identificar fortalezas, debilidades y oportunidades de mejora.
             .row.justify-content-center.py-4
               .col-10
                 div.p-4
-                  h5 6. Optimizar y validar
+                  h5 F. Optimizar y validar
                   p.mb-0 Ajustar el prototipo con base en los resultados obtenidos y validar su funcionalidad, viabilidad y aceptación.
       .col-sm-6.col-lg-3.d-none.d-xl-block
         figure
@@ -136,10 +136,10 @@
           .tarjeta.bg-secundario-s5.p-4(titulo="Consumidor industrial")
             p.mb-0 Compra productos o servicios para usarlos en sus procesos de producción o negocio. 
             p.mb-0 #[strong Ejemplo:] una empresa que compra materias primas para fabricar alimentos.
-          .tarjeta.bg-secundario-s5.p-4(titulo="Análisis")
+          .tarjeta.bg-secundario-s5.p-4(titulo="Consumidor potencial")
             p.mb-0 Aún no compra el producto o servicio, pero puede hacerlo en el futuro si se cumplen ciertas condiciones. 
             p.mb-0 #[strong Ejemplo:] una persona interesada en comprar calzado deportivo.
-          .tarjeta.bg-secundario-s5.p-4(titulo="Informe")
+          .tarjeta.bg-secundario-s5.p-4(titulo="Consumidor frecuente")
             p.mb-0 Compra de manera habitual debido a su satisfacción y confianza en la marca. 
             p.mb-0 #[strong Ejemplo:] una persona que compra regularmente productos de cuidado personal.
           .tarjeta.bg-secundario-s5.p-4(titulo="Consumidor ocasional")
@@ -283,7 +283,7 @@
                   h4.mb-2 Propuesta de valor: cómo es el secreto para enamorar clientes
                   p.mb-0 Para ampliar este tema, se recomienda consultar el siguiente artículo, el cual explica qué es una propuesta de valor, sus principales elementos y cómo diseñarla para responder a las necesidades del cliente y diferenciar una organización en el mercado. 
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('https://www.tiendanube.com/blog/que-es-una-propuesta-de-valor/')" target="_blank")
+                  a.boton.color-acento-botones(href='https://www.tiendanube.com/blog/que-es-una-propuesta-de-valor/' target="_blank")
                     span Enlace
                     i.fas.fa-link
 

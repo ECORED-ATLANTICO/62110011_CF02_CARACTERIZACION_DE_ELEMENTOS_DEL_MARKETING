@@ -44,7 +44,7 @@
           figure
             img.imgw-60.mb-4.mb-lg-0(src="@/assets/curso/tema4/4.png", alt="" data-aos="zoom-in-down")
         .col-lg-10.col-xl-11
-          p.mb-0 El #[em marketing] digital integra estrategias, herramientas y procesos que permiten a las empresas comprender el comportamiento de los consumidores en entornos digitales, establecer una comunicación efectiva y ofrecer experiencias personalizadas. Su aplicación facilita la identificación de oportunidades comerciales, la evaluación de resultados y el mejoramiento de las acciones de mercadeo para fortalecer la relación con los clientes. A continuación, se presenta los componentes que hacen parte del ma#[em marketing]rketing digital: 
+          p.mb-0 El #[em marketing] digital integra estrategias, herramientas y procesos que permiten a las empresas comprender el comportamiento de los consumidores en entornos digitales, establecer una comunicación efectiva y ofrecer experiencias personalizadas. Su aplicación facilita la identificación de oportunidades comerciales, la evaluación de resultados y el mejoramiento de las acciones de mercadeo para fortalecer la relación con los clientes. A continuación, se presenta los componentes que hacen parte del #[em marketing] digital: 
     
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-9
@@ -63,7 +63,7 @@
             p.mb-0 #[strong Ejemplo]: una plataforma de comercio electrónico recomienda productos relacionados con las categorías consultadas previamente por sus usuarios. 
           .tarjeta.bg-secundario-s5.p-4(titulo="Optimización continua ")
             p.mb-0 Impulsa mejoras permanentes en campañas, contenidos y canales digitales mediante el análisis de resultados para aumentar su efectividad. 
-            p.mb-0 #[strong Ejemplo]: Una empresa compara dos versiones de un anuncio y selecciona la que obtiene mejores resultados comerciales. 
+            p.mb-0 #[strong Ejemplo]: una empresa compara dos versiones de un anuncio y selecciona la que obtiene mejores resultados comerciales. 
       .col-sm-6.col-lg-3
         figure
           img(src="@/assets/curso/tema4/5.png", alt="" data-aos="zoom-in-down")
@@ -75,7 +75,7 @@
             img.imgw-154(src='@/assets/curso/tema1/19.png' alt='')
           .tarjeta.bg-img--5.h-fitcontent
             .p-4
-              p.mb-0 Un ejemplo claro es Spotify, que segmenta usuarios según preferencias musicales y crea listas personalizadas, fortaleciendo la permanencia en la plataforma y aumentando la probabilidad de suscripción premium. 
+              p.mb-0 Un ejemplo claro es Spotify, que segmenta usuarios según preferencias musicales y crea listas personalizadas, fortaleciendo la permanencia en la plataforma y aumentando la probabilidad de suscripción #[em premium]. 
 
     .row.justify-content-center.mb-3.align-items-center
       .col-lg-1.d-none.d-lg-block
@@ -121,11 +121,11 @@
             img.imgw-154(src='@/assets/curso/tema1/3.png' alt='')
           .tarjeta.bg-img--primario.h-fitcontent
             .p-4
-              p.mb-0 Por ejemplo, HubSpot basa su estrategia en inbound #[em marketing], ofreciendo recursos educativos gratuitos que atraen prospectos y los convierten progresivamente en clientes mediante automatización y seguimiento personalizado. La estrategia establece el propósito general; orienta la inversión, los canales y los mensajes clave. 
+              p.mb-0 Por ejemplo, HubSpot basa su estrategia en #[em inbound marketing], ofreciendo recursos educativos gratuitos que atraen prospectos y los convierten progresivamente en clientes mediante automatización y seguimiento personalizado. La estrategia establece el propósito general; orienta la inversión, los canales y los mensajes clave. 
 
     .row.justify-content-center.mb-4
       .col-xl-10
-        p En cuanto a las tácticas, son las acciones concretas que permiten ejecutar las estrategias definidas. Representan el nivel operativo del e-marketing y se apoyan en herramientas tecnológicas específicas. 
+        p En cuanto a las tácticas, son las acciones concretas que permiten ejecutar las estrategias definidas. Representan el nivel operativo del #[em e-marketing] y se apoyan en herramientas tecnológicas específicas. 
         p.mb-0 Entre las tácticas más relevantes se encuentran: 
 
     .row.justify-content-center.align-items-center.z-2.mb-4
@@ -143,14 +143,14 @@
 
     separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.3 Concepto de mercadeo sostenible
+      h2 4.3 Concepto de mercadeo ecológico
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-6.col-lg-3
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/12.png", alt="" data-aos="zoom-in-down")
       .col-lg-9
-        p El mercadeo ecológico, también denominado #[em marketing] verde o green #[em marketing], consiste en el diseño, promoción y comercialización de productos y servicios que buscan satisfacer las necesidades de los consumidores, minimizando al mismo tiempo los impactos negativos sobre el medio ambiente. Este enfoque integra criterios de sostenibilidad en las decisiones comerciales, promoviendo un equilibrio entre el crecimiento económico, la protección de los recursos naturales y el bienestar de la sociedad. 
+        p El mercadeo ecológico, también denominado #[em marketing] verde o #[em green marketing], consiste en el diseño, promoción y comercialización de productos y servicios que buscan satisfacer las necesidades de los consumidores, minimizando al mismo tiempo los impactos negativos sobre el medio ambiente. Este enfoque integra criterios de sostenibilidad en las decisiones comerciales, promoviendo un equilibrio entre el crecimiento económico, la protección de los recursos naturales y el bienestar de la sociedad. 
         .bg-img--12.rounded-4.p-4.mb-4.mb-lg-0
           .row.justify-content-center.align-items-center
             .col-lg-2.col-xl-1.p-0.d-none.d-lg-block
@@ -317,7 +317,7 @@
             img.imgw-154(src='@/assets/curso/tema1/3.png' alt='')
           .tarjeta.bg-img--primario.h-fitcontent
             .p-4
-              p.mb-0 Por ejemplo, Natura evalúa permanentemente el impacto ambiental de sus productos, implementa programas de abastecimiento responsable y utiliza envases reciclables para reducir su huella ambiental. 
+              p.mb-0 Por ejemplo, Bancolombia publica periódicamente informes de sostenibilidad donde presenta los resultados de sus programas sociales, ambientales y de gobierno corporativo, evidenciando el seguimiento y la mejora continua de sus acciones de responsabilidad social.
 
     .row.justify-content-center.mb-5
       .col-xl-10
@@ -328,10 +328,11 @@
             .p-4.py-5
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-2 Los 5 Kpis | Metricas fundamentales en #[em marketing] digital y métricas de Publicidad Digital
-                  p.mb-0 Para comprender los fundamentos del #[em branding], la construcción de identidad de marca y la forma en que los elementos estratégicos e idénticos influyen en la percepción de los consumidores y la diferenciación en el mercado, se recomienda revisar el siguiente recurso: 
+                  h4.mb-2 ¿Qué es el #[em marketing] sostenible?
+                  p.mb-0 Para comprender los fundamentos del marketing sostenible, el enfoque en el triple resultado (ambiental, social y económico) y la forma en que los principios de responsabilidad social e innovación influyen en la creación de valor a largo plazo y en la percepción del consumidor, se recomienda revisar el siguiente recurso:
+
                 .col-sm-auto
-                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=hq18b03whBs&t=10s" target="_blank")
+                  a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=MOBVGdR-3G4" target="_blank")
                     span Enlace
                     i.fas.fa-video
 

@@ -64,14 +64,14 @@
                 img.imgw-95.mb-3(src='@/assets/curso/tema6/6.svg' alt='')
             h5.mb-3.text-center Fidelización de los consumidores 
             p.mb-0.text-center Evalúa la capacidad de la empresa para conservar clientes y fomentar compras recurrentes mediante experiencias satisfactorias.  
-            p.mb-0.text-center #[strong Ejemplo]: Una cafetería identifica que el 70 % de sus clientes habituales continúa comprando durante el siguiente trimestre.
+            p.mb-0.text-center #[strong Ejemplo]: una cafetería identifica que el 70 % de sus clientes habituales continúa comprando durante el siguiente trimestre.
       .col-sm-8.col-lg-4.d-none.d-xl-block
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/tema6/1.png", alt="")
     
     separador
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 6.2 Auditoría de mercadeo 
+      h2 6.2 Características de los indicadores
 
     .row.justify-content-center.mb-5.align-items-center
       .col-lg-1.d-none.d-lg-block
@@ -113,6 +113,7 @@
           span Principales indicadores de resultado en #[em marketing]
         .tabla-a.color-secundario.tabla-a--text-left.mb-4
           table
+          caption Nota. Adaptada de Kotler y Armstrong, (2021).
             thead
               tr(style="background-color: #FEF5F7")
                 th Indicador 
@@ -196,7 +197,7 @@
             img.imgw-154(src='@/assets/curso/tema1/19.png' alt='')
           .tarjeta.bg-img--5.h-fitcontent
             .p-4
-              p.mb-0 Por ejemplo, MerPor ejemplo, Grupo Nutresa realiza evaluaciones periódicas de sus campañas de mercadeo y del comportamiento de sus marcas para identificar oportunidades de mejora y fortalecer su posicionamiento en el mercado. 
+              p.mb-0 Por ejemplo, Grupo Nutresa realiza evaluaciones periódicas de sus campañas de mercadeo y del comportamiento de sus marcas para identificar oportunidades de mejora y fortalecer su posicionamiento en el mercado. 
 
     separador
     #t_6_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -298,8 +299,9 @@
             .p-4.py-5
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h4.mb-2 Los 5 Kpis | Metricas fundamentales en #[em marketing] digital y métricas de Publicidad Digital
-                  p.mb-0 Para comprender los fundamentos del #[em branding], la construcción de identidad de marca y la forma en que los elementos estratégicos e idénticos influyen en la percepción de los consumidores y la diferenciación en el mercado, se recomienda revisar el siguiente recurso: 
+                  h4.mb-2 Los 5 Kpis | Metricas fundamentales en #[em marketing] digital y métricas de publicidad digital
+                  p.mb-0 Para profundizar en los conceptos de costo por clic (CPC), costo por mil impresiones (CPM), tasa de clics (CTR), costo por adquisición (CPA) y retorno de la inversión (ROI), se sugiere consultar los siguientes recursos audiovisuales:
+
                 .col-sm-auto
                   .d-flex.gap-2.flex-column
                     a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=hq18b03whBs&t=10s" target="_blank")

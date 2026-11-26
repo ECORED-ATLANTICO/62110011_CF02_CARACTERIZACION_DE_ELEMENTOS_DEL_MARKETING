@@ -95,7 +95,7 @@
             img.imgw-154(src='@/assets/curso/tema1/19.png' alt='')
           .tarjeta.bg-img--primario.h-fitcontent
             .p-4
-              p.mb-0 Empresas como IBM aplican metodologías de design thinking para desarrollar soluciones enfocadas en las necesidades de sus clientes, favoreciendo la innovación y la mejora continua de sus servicios. 
+              p.mb-0 Empresas como IBM aplican metodologías de #[em design thinking] para desarrollar soluciones enfocadas en las necesidades de sus clientes, favoreciendo la innovación y la mejora continua de sus servicios. 
 
     separador
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
