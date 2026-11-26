@@ -377,7 +377,7 @@ export default {
     {
       referencia:
         'Kotler, P., Kartajaya, H., & Setiawan, I. (2021). <em>Marketing</em> 5.0: Tecnología para la humanidad. LID Editorial.',
-      link: 'https://www.lideditorial.com/',
+      link: 'https://books.google.com.co/books?id=IWdEEAAAQBAJ&printsec=frontcover&hl=es&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false',
     },
     {
       referencia:
@@ -404,11 +404,6 @@ export default {
         'Osterwalder, A., Pigneur, Y., Bernarda, G., & Smith, A. (2015). Diseñando la propuesta de valor. Deusto.',
       link: '',
     },
-    {
-      referencia:
-        'Ecoe Ediciones. (2023). <em>Marketing</em> digital: Estrategias para la transformación empresarial.',
-      link: 'https://ecoeediciones.com/',
-    },
   ],
   creditos: [
     {
@@ -432,11 +427,11 @@ export default {
       autores: [
         {
           nombre: 'Mario Morales Cabrera',
-          cargo: 'Experta temática',
+          cargo: 'Experto temática',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jair Coll Gallardo',
+          nombre: 'Jair Enrique Coll Gallardo',
           cargo: 'Evaluador Instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
@@ -446,8 +441,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Carmen Marcela Guerrero Arévalo',
-          cargo: 'Diseñador de contenidos digitales',
+          nombre: 'Carmen Alicia Martínez Torres',
+          cargo: 'Diseñadora de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -486,7 +481,7 @@ export default {
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
-          nombre: 'Jonathan Adié Villafañe',
+          nombre: 'Luis Gabriel Urueta',
           cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
