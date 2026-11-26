@@ -249,9 +249,9 @@
                   h4.mb-2 Lectura sugerida. Innovación de producto: tendencias y oportunidades para el futuro empresarial
                   p.mb-0 Para ampliar este tema, se recomienda consultar el siguiente artículo sobre innovación de producto, tendencias y oportunidades para fortalecer la competitividad empresarial:
                 .col-sm-auto
-                  a.boton.color-acento-botones(:href="obtenerLink('https://www.google.com')" target="_blank")
-                    span Descargar
-                    i.fas.fa-file-download
+                  a.boton.color-acento-botones(href='https://www.innovaciondigital360.com/industria-4-0/innovacion-de-producto-tendencias-y-oportunidades-para-el-futuro-empresarial/' target="_blank")
+                    span Enlace
+                    i.fas.fa-link
 
 </template>
 
