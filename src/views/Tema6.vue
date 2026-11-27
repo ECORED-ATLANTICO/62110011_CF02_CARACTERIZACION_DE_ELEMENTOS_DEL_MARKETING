@@ -113,7 +113,7 @@
           span Principales indicadores de resultado en #[em marketing]
         .tabla-a.color-secundario.tabla-a--text-left.mb-4
           table
-          caption Nota. Adaptada de Kotler y Armstrong, (2021).
+            caption Nota. Adaptada de Kotler y Armstrong, (2021).
             thead
               tr(style="background-color: #FEF5F7")
                 th Indicador 

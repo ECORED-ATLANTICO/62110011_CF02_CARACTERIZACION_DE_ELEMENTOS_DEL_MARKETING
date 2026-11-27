@@ -329,7 +329,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h4.mb-2 ¿Qué es el #[em marketing] sostenible?
-                  p.mb-0 Para comprender los fundamentos del marketing sostenible, el enfoque en el triple resultado (ambiental, social y económico) y la forma en que los principios de responsabilidad social e innovación influyen en la creación de valor a largo plazo y en la percepción del consumidor, se recomienda revisar el siguiente recurso:
+                  p.mb-0 Para comprender los fundamentos del #[em marketing] sostenible, el enfoque en el triple resultado (ambiental, social y económico) y la forma en que los principios de responsabilidad social e innovación influyen en la creación de valor a largo plazo y en la percepción del consumidor, se recomienda revisar el siguiente recurso:
 
                 .col-sm-auto
                   a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=MOBVGdR-3G4" target="_blank")
